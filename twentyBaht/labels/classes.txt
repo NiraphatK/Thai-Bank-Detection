@@ -1,0 +1,5 @@
+fiftyBaht
+fiveHundredBaht
+hundredBaht
+thousandBaht
+twentyBaht
